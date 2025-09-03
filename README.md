@@ -1,5 +1,4 @@
 # Postgres-SQL-query-command
-# Postgres SQL query cheat sheet 
 
 #### Hope to enjoy!
 
